@@ -71,12 +71,12 @@ El dataset utilizado es **"Car Price Dataset"**, descargado de Kaggle. Puedes ac
 
 | Métrica | Valor      |
 |---------|------------|
-| RMSE    | 64.75      |
+| RMSE    | 64.60      |
 | MAPE    | 0.45%      |
 | R²      | 99.95%     |
 
 #### Interpretación de las Métricas
-- **RMSE:** Error promedio de 64.75 unidades. Este valor es bajo en comparación con la escala del target (`Price`), lo que sugiere que el modelo tiene un buen desempeño.  
+- **RMSE:** Error promedio de 64.60 unidades. Este valor es bajo en comparación con la escala del target (`Price`), lo que sugiere que el modelo tiene un buen desempeño.  
 - **MAPE:** Error porcentual absoluto de 0.45%, lo que significa que las predicciones tienen un margen de error muy pequeño en términos relativos.  
 - **R²:** Explica el 99.95% de la varianza del target, indicando un ajuste excelente del modelo a los datos.  
 
@@ -94,4 +94,4 @@ El dataset utilizado es **"Car Price Dataset"**, descargado de Kaggle. Puedes ac
 
 ### Autor
 
-**Team Leviathan**
+Team Leviathan A.K.A. **Still_Lost_in_ML**
